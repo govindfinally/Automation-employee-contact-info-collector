@@ -123,7 +123,3 @@ If you're looking for someone who can combine **data engineering**, **automation
 📧 Email: *[govindmohanty4@gmail.com.com](mailto:your.email@example.com)*
 💼 LinkedIn: *[www.linkedin.com/in/govind-mohanty-123a0b231](#)*
 🐙 GitHub: *[https://github.com/govindfinally](#)*
-
----
-
-Do you want me to also create **a very catchy GitHub repository name + banner image** so your project looks even more attractive when recruiters see it? That will make it pop visually.
