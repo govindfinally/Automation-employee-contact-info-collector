@@ -19,7 +19,7 @@ def hunter_api_domain_search(domain, api_key):
 
 # --- Load company list ---
 input_file = input("Enter file path: ")
-excel_file = input_file if input_file else "Govind_Mohanty_Internship_Outreach_Extended.xlsx"
+excel_file = input_file if input_file else "D:\automation\company_list.excel\Govind_Mohanty_Internship_Outreach_Extended.xlsx"
 df_companies = pd.read_excel(excel_file)
 company_domains = df_companies["Company Name"].dropna().tolist()
 

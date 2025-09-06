@@ -54,7 +54,9 @@ This project is a **fully automated data enrichment tool** that:
 ```plaintext
 automation_project/
 │
-├── main.py                 # Main automation script
+├── main.py                 # Main automation scripts for main Selenium 
+|__with_api.py               # Main automation script for api 
+|__beautiful_soup.py         # Main automation script for beautiful soup
 ├── requirements.txt        # Dependencies list
 ├── README.md               # This file
 └── data/
